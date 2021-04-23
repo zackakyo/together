@@ -6,4 +6,4 @@ def CirclePerimeter(_rayon):
 def SquarePerimeter(_cote):
 	return _cote * 4
 def TrianglePerimeter(_cote1, _cote2, _cote3):
-	return _cote1 + _cote2 _cote3
+	return _cote1 + _cote2 + _cote3
